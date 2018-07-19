@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526410472555.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1640904678",
+    "id" : "20CF36A",
+    "lastKnownWriteTime" : 1475990152,
+    "last_content_update" : 1475990152,
+    "path" : "~/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 9 - Random Forest Regression/random_forest_regression.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,9 @@
+{
+    "path" : "~/Machine Learning A-Z Template Folder/Datasets/Titanic/titanic",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
